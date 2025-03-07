@@ -8,6 +8,9 @@ This project is a **Handwritten Digit Recognition** system that allows users to 
 
 The system utilizes a **Convolutional Neural Network (CNN) model** trained on the **MNIST dataset** to accurately classify digits from 0 to 9.
 
+🚀 Live Demo
+[Click here to try the app](https://digit-recognition-using-cnn-zmxji3w9ucj2bnjm4j5b3p.streamlit.app/)
+
 ## 🚀 Features
 
 - **Live Webcam Detection** 📷
